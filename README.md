@@ -1,5 +1,6 @@
 <!-- Header -->
-![Header](ChatGPT Image Sep 8, 2025, 03_51_37 PM.png)
+![Header](<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/aaf16c59-5a26-49d0-83f3-599335064f54" />
+)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
