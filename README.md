@@ -1,5 +1,5 @@
 <!-- Header -->
-![Header](C:/Users/hp/Downloads/ChatGPT Image Sep 8, 2025, 03_51_37 PM.png)
+![Header](ChatGPT Image Sep 8, 2025, 03_51_37 PM.png)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
