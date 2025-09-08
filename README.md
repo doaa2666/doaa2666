@@ -1,6 +1,5 @@
 <!-- Header -->
-![Header](<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/aaf16c59-5a26-49d0-83f3-599335064f54" />
-)
+<img src="https://github.com/user-attachments/assets/aaf16c59-5a26-49d0-83f3-599335064f54" alt="Header" width="100%" />
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
@@ -69,7 +68,7 @@ You can find me here on [![GitHub][2.2]][2], or on [![LinkedIn][3.2]][3].
 ---
 
 <!-- links to social media icons -->
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[2]: https://github.com/doaa2666
-[3]: https://www.linkedin.com/in/doaa-nashat-13540029a/
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)  
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)  
+[2]: https://github.com/doaa2666  
+[3]: https://www.linkedin.com/in/doaa-nashat-13540029a/  
