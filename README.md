@@ -2,7 +2,7 @@
 <!-- Header -->
 <img src="https://github.com/user-attachments/assets/aaf16c59-5a26-49d0-83f3-599335064f54" 
      alt="Header" 
-     width="50%" 
+     width="100%" 
      height="300px" 
      style="border-radius: 15px; object-fit: cover;" />
 
